@@ -62,3 +62,4 @@ This analysis offers valuable insights into team dynamics, strategic trends, and
 
 
 # Next I will use Figma to design
+# I will use JSON , API AND REACT
