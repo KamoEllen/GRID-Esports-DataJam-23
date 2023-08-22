@@ -42,6 +42,10 @@ The analysis reveals patterns within the correlation matrix between various metr
 
 - **Threats to Avoid:** Relying solely on high kill counts without effective assist contributions might lead to vulnerability in achieving objectives and overall match performance.
 
+### Communicating Feedback
+
+Different formats and channels to communicate feedback, such as reports and dashboards. When providing feedback, aim for clarity, conciseness, specificity, actionability, and timeliness. Utilize positive reinforcement, praise, and recognition to motivate your players and teams. Encourage them to ask questions, share opinions, and suggest solutions, fostering a collaborative and growth-oriented environment.
+
 [Link to the Esports Data Analysis Notebook](https://github.com/KamoEllen/GRID-Esports-DataJam-23/blob/main/GRID_DATA%20(1).ipynb)
 
 <hr>
@@ -53,3 +57,8 @@ The strong correlation between 'score' and 'kill_assists_received' suggests that
 Furthermore, balanced performances by 'Aster' and 'Team Spirit' across various metrics demonstrate their versatility in gameplay. On the other hand, 'ECSTATIC' employs a specialized strategy of focusing on eliminations, leading to a higher kill count but fewer assists and scores.
 
 This analysis offers valuable insights into team dynamics, strategic trends, and performance patterns in esports competitions.
+
+
+
+
+# Next I will use Figma to design
