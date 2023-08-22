@@ -13,7 +13,7 @@ Top Performers for Kills: This table lists the top-performing teams based on ave
 
 Formatted Table for Averages: This table provides the average metrics for each team, including score, kills, kill assists received, and kill assists given. It gives an overall overview of team performance across these metrics.
 
-<br>
+<hr>
 Correlation Interpretation:
 
 The correlation of 0.82 between 'score' and 'kill_assists_received' suggests that as teams score more points, they are likely to receive more kill assists. This could be due to coordinated gameplay or effective teamwork.
@@ -27,4 +27,4 @@ Specialized Strategy:
 
 'ECSTATIC' stands out for its high kill count but relatively lower scores, kill assists received, and kill assists given. This pattern might suggest that 'ECSTATIC' focuses more on eliminating opponents rather than supporting the team in objectives or assists.
 
-<br>
+<hr>
