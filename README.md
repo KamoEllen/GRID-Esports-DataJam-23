@@ -1,4 +1,4 @@
-[GRID_DATA (1).ipynb] contents :
+[https://github.com/KamoEllen/GRID-Esports-DataJam-23/blob/main/GRID_DATA%20(1).ipynb] contents :
 Number of Weapon Types: There are a total of 22 different weapon types in the dataset.
 
 Most Kills: The weapon type 'ak47' has the highest number of kills, with a total of 424 kills.
