@@ -30,6 +30,18 @@ The analysis reveals patterns within the correlation matrix between various metr
 
 - **Specialized Strategy:** 'ECSTATIC' demonstrates a unique gameplay strategy by excelling in kill count but showing relatively lower scores, kill assists received, and kill assists given. This indicates a focus on eliminations over objectives or assists.
 
+### Recommendations for Improvement and Strategy
+
+- **Areas of Improvement:** Teams could focus on enhancing their kill assists received, which has a strong positive correlation with scores. This can be achieved through better coordination and teamwork during matches.
+
+- **Strengths to Leverage:** Teams with strong performances in both scores and kill assists received, like 'PSG.LGD' and 'forZe,' can capitalize on their effective teamwork to maintain dominance.
+
+- **Weaknesses to Address:** Teams that excel in kill count but lack scores and assists, such as 'ECSTATIC,' should consider adjusting their strategy to balance both eliminations and objectives.
+
+- **Opportunities to Exploit:** Teams can leverage their balanced performance, like 'Aster' and 'Team Spirit,' to adapt to various opponents and strategies effectively.
+
+- **Threats to Avoid:** Relying solely on high kill counts without effective assist contributions might lead to vulnerability in achieving objectives and overall match performance.
+
 [Link to the Esports Data Analysis Notebook](https://github.com/KamoEllen/GRID-Esports-DataJam-23/blob/main/GRID_DATA%20(1).ipynb)
 
 <hr>
