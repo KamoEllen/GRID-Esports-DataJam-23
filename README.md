@@ -2,6 +2,14 @@
 
 This repository contains an analysis of esports data from the GRID Esports DataJam competition. The analysis is conducted using Python and Jupyter Notebook. The main notebook for the analysis can be found [here](https://github.com/KamoEllen/GRID-Esports-DataJam-23/blob/main/GRID_DATA%20(1).ipynb).
 
+## Tools used
+
+- Figma
+- GRID data
+- Jupyter Notebook
+- React
+
+
 ## Insights from the Analysis
 
 ### General Statistics
@@ -63,3 +71,6 @@ This analysis offers valuable insights into team dynamics, strategic trends, and
 
 # Next I will use Figma to design
 # I will use JSON , API AND REACT
+https://www.youtube.com/watch?v=_j3yiadVGQA
+https://www.youtube.com/results?search_query=live+game+esports+Live+Video+Streaming+to+your+website
+python3.11 -m notebook
