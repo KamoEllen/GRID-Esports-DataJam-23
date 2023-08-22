@@ -74,3 +74,4 @@ This analysis offers valuable insights into team dynamics, strategic trends, and
 https://www.youtube.com/watch?v=_j3yiadVGQA
 https://www.youtube.com/results?search_query=live+game+esports+Live+Video+Streaming+to+your+website
 python3.11 -m notebook
+icons = https://dota2.fandom.com/wiki/Category:Dota_2_images
