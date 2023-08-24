@@ -11,6 +11,13 @@ This repository contains an analysis of esports data from the GRID Esports DataJ
 
 
 ## Insights from the Analysis
+![Flowchart](https://raw.githubusercontent.com/KamoEllen/GRID-Esports-DataJam-23/main/flow2design.png)
+
+
+
+
+
+
 
 ### General Statistics
 
