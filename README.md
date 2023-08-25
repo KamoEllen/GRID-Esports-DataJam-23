@@ -86,3 +86,5 @@ grid resources : https://grid-esports-datajam23.devpost.com/updates/27614-a-step
 https://github.com/isakfagerlund/grid-me-up
 https://moddota.com/api/#!/vscripts
 https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API
+https://moddota.com/api/#!/vscripts
+https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools
