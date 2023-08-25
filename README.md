@@ -84,3 +84,4 @@ python3.11 -m notebook
 icons = https://dota2.fandom.com/wiki/Category:Dota_2_images
 grid resources : https://grid-esports-datajam23.devpost.com/updates/27614-a-step-by-step-guide-on-how-to-get-started
 https://github.com/isakfagerlund/grid-me-up
+https://moddota.com/api/#!/vscripts
