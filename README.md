@@ -74,7 +74,7 @@ Furthermore, balanced performances by 'Aster' and 'Team Spirit' across various m
 This analysis offers valuable insights into team dynamics, strategic trends, and performance patterns in esports competitions.
 
 
-
+# DO INTERACTVE MAP ON FIGMA< ANIMATION. JUST SHOWING POTENTIAL Right.
 
 # Next I will use Figma to design
 # I will use JSON , API AND REACT
@@ -85,3 +85,4 @@ icons = https://dota2.fandom.com/wiki/Category:Dota_2_images
 grid resources : https://grid-esports-datajam23.devpost.com/updates/27614-a-step-by-step-guide-on-how-to-get-started
 https://github.com/isakfagerlund/grid-me-up
 https://moddota.com/api/#!/vscripts
+https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API
