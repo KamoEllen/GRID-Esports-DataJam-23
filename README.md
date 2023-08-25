@@ -82,3 +82,4 @@ https://www.youtube.com/watch?v=_j3yiadVGQA
 https://www.youtube.com/results?search_query=live+game+esports+Live+Video+Streaming+to+your+website
 python3.11 -m notebook
 icons = https://dota2.fandom.com/wiki/Category:Dota_2_images
+grid resources : https://grid-esports-datajam23.devpost.com/updates/27614-a-step-by-step-guide-on-how-to-get-started
